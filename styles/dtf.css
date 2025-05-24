@@ -1,0 +1,392 @@
+@media (max-width: 1024px) {
+    .container-element {
+        width: 100%;
+    }
+
+    .container {
+        padding-bottom: 60px;
+        padding-top: 40px;
+    }
+
+    .list {
+        gap: 45px;
+        letter-spacing: 1px;
+    }
+
+    .content {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        width: 100%;
+    }
+
+    .div__header-item {
+        font-size: 42px;
+    }
+
+    .button-container {
+        padding-bottom: 80px;
+        padding-top: 110px;
+    }
+    
+    .call-to-action {
+        font-size: 16px;
+        letter-spacing: 1.6px;
+        width: 20%;
+        height: 50px;
+        text-wrap: wrap;
+    }
+
+    .section {
+        padding-top: 76px;
+        padding-bottom: 70px;
+        width: 100%;
+    }
+
+    .header__title {
+        padding-bottom: 35px;
+        font-size: 28px;
+        line-height: 100%;
+        padding-top: 40px;
+    }
+
+    .section__content {
+        font-size: 16px;
+    }
+
+    
+    .list-footer {
+        padding-top: 35px;
+        width: 100%;
+    }
+
+    .background-color-footer {
+        height: 100px;
+    }
+
+    img {
+        width: 40px;
+    }
+
+    h3 {
+        font-size: 15px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        padding-bottom: 5px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+
+
+    .geometry-content {
+        padding-left: 10px;
+        padding-right: 12.5px;
+}
+
+    .section-work {
+        text-align: center;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 27px;
+}
+
+    .container-image {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 50px;
+    }
+
+    .content-image__image {
+        width: 100%;
+    }
+
+    .footer-geometry {
+        height: 100px;
+    }
+
+    .footer-container{
+        width: 100%;
+    }
+
+    .header-content {
+        padding-top: 25px;
+    }
+
+    .header-content__name {
+        font-size: 16px;
+    }
+    
+    .header-content__rights {
+        padding-top: 10px;
+    }
+
+}
+
+
+@media (max-width: 760px) {
+    .container-element {
+        width: 100%;
+    }
+
+    .container {
+        padding-bottom: 40px;
+        padding-top: 20px;
+    }
+
+    .nav-menu {
+        display: flex;
+        text-wrap: wrap;
+    }
+
+    .list {
+        gap: 15px;
+        letter-spacing: 1px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .content {
+        padding-top: 30px;
+        padding-bottom: 34px;
+        width: 100%;
+    }
+
+    .div__header-item {
+        font-size: 38px;
+    }
+
+    .button-container {
+        padding-bottom: 60px;
+        padding-top: 90px;
+    }
+    
+    .call-to-action {
+        font-size: 16px;
+        letter-spacing: 1px;
+        width: 30%;
+        height: 50px;
+        text-wrap: wrap;
+    }
+
+    .section {
+        padding-top: 76px;
+        padding-bottom: 70px;
+        width: 100%;
+    }
+
+    .header__title {
+        padding-bottom: 35px;
+        font-size: 28px;
+        line-height: 100%;
+        padding-top: 40px;
+    }
+
+    .section__content {
+        font-size: 16px;
+    }
+
+    
+    .list-footer {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .background-color-footer {
+        height: auto;
+    }
+
+    img {
+        width: 25px;
+    }
+
+    h3 {
+        font-size: 13px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        padding-bottom: 5px;
+    }
+
+    p {
+        font-size: 11px;
+    }
+
+
+
+    .geometry-content {
+        padding-left: 5px;
+        padding-right: 0px;
+}
+
+    .section-work {
+        text-align: center;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 27px;
+}
+
+    .container-image {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 50px;
+    }
+
+    .content-image__image {
+        width: 100%;
+    }
+
+    .footer-geometry {
+        height: 100px;
+    }
+
+    .footer-container{
+        width: 100%;
+    }
+
+    .header-content {
+        padding-top: 25px;
+    }
+
+    .header-content__name {
+        font-size: 16px;
+    }
+    
+    .header-content__rights {
+        padding-top: 10px;
+    }
+
+}
+
+
+
+@media (max-width: 376px) {
+
+    .container-element {
+        width: 100%;
+    }
+
+    .container {
+        padding-bottom: 21px;
+        padding-top: 19.5px;
+    }
+
+    .list {
+        gap: 10px;
+        letter-spacing: 1px;
+    }
+
+    .content {
+        padding-top: 15px;
+        padding-bottom: 17px;
+        width: 100%;
+    }
+
+    .div__header-item {
+        font-size: 32px;
+    }
+
+    .button-container {
+        padding-bottom: 50px;
+        padding-top: 80px;
+    }
+    
+    .call-to-action {
+        font-size: 12px;
+        letter-spacing: 1px;
+        width: 40%;
+        height: 50px;
+        text-wrap: wrap;
+    }
+
+    .section {
+        padding-top: 56px;
+        padding-bottom: 50px;
+        width: 100%;
+    }
+
+    .header__title {
+        padding-bottom: 25px;
+        font-size: 24px;
+        line-height: 100%;
+        padding-top: 25px;
+    }
+
+    .section__content {
+        font-size: 16px;
+    }
+
+    
+    .list-footer {
+        padding-top: 17.5px;
+        width: 100%;
+        text-wrap: wrap;
+        padding-bottom: 17.5px;
+    }
+
+    .background-color-footer {
+        height: auto;
+    }
+
+    img {
+        width: 12.5px;
+    }
+
+    h3 {
+        font-size: x-small;
+        line-height: 100%;
+        letter-spacing: 0%;
+        padding-bottom: 5px;
+    }
+
+    p {
+        font-size: x-small;
+    }
+
+    .geometry-content {
+        padding-left: 5px;
+        padding-right: 0px;
+}
+
+    .section-work {
+        text-align: center;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 27px;
+}
+
+    .container-image {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 50px;
+    }
+    .footer-geometry {
+        height: 100px;
+    }
+
+    .footer-container{
+        width: 100%;
+    }
+
+    .header-content {
+        padding-top: 25px;
+    }
+
+    .header-content__name {
+        font-size: 16px;
+    }
+    
+    .header-content__rights {
+        padding-top: 10px;
+    }
+
+}
