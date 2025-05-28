@@ -1,0 +1,28 @@
+@mixin layout{
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin layout-header{
+    text-align: center;
+    width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin weight{
+   font-weight: 500;
+   line-height: 100%; 
+}
+
+@mixin weight-normal{
+    font-weight: 400;
+    line-height: 164%;
+}
+
+@mixin geometry{
+    margin-left: auto;
+    margin-right: auto;
+}
+
