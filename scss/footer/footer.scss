@@ -1,0 +1,56 @@
+@import '../variables/variables.scss';
+@import '../mixins/mixin.scss';
+
+.footer-geometry {
+    background-color: #34547A;
+    height: 151px;
+}
+
+.footer-color {
+    color: $bg-footer-header;
+}
+
+.header-content {
+    padding-top: 50px;
+}
+
+.header-content__name {
+    @include weight;
+    font-size: 21px;
+}
+
+.header-content__rights {
+    @include weight-normal;
+    padding-top: 20px;
+    font-size: 13px;
+}
+
+.background-color-footer {
+    background-color: $bg-footer;
+    height: 250px;
+}
+
+.footer-header {
+    color: $bg-footer-header;
+    align-self: end;
+}
+
+h3 {
+    @include weight;
+    font-size: 21px;
+    padding-bottom: 10px;
+}
+
+.footer-content {
+    @include weight-normal;
+    font-size: 16px;
+}
+
+.container-background {
+    background-color: $bg;
+}
+
+.geometry-content {
+    padding-left: 20px;
+    padding-right: 45px;
+}
