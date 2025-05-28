@@ -90,7 +90,7 @@
   }
   .nav-menu, .list, .list-footer {
     display: flex;
-    text-wrap: wrap;
+    flex-wrap: wrap;
   }
   .list {
     gap: 15px;
@@ -217,7 +217,7 @@
   }
   .list-footer {
     padding-top: 17.5px;
-    text-wrap: wrap;
+    flex-wrap: wrap;
     padding-bottom: 17.5px;
   }
   .background-color-footer {

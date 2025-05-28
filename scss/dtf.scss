@@ -118,7 +118,7 @@
 
     .nav-menu, .list, .list-footer {
         display: flex;
-        text-wrap: wrap;
+        flex-wrap: wrap;
     }
 
     .list {
